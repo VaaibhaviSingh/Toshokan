@@ -18,7 +18,7 @@ Change the directory to backend folder, initialize a firebase project and deploy
 cd backend/
 ```
 
-### Setup frontend
+### frontend
 
 Change the directory to frontend folder, install dependencies and start app.
 
